@@ -1,1 +1,0 @@
-# Calibragem_seguidor
